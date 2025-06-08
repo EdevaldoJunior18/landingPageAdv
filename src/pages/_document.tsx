@@ -8,6 +8,10 @@ export default function Document() {
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap"
         />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+        />
       </Head>
       <body className="antialiased font-oswald">
         <Main />
